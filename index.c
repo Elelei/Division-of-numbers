@@ -1,28 +1,11 @@
 #include<stdio.h>
 int main()
 {
-  int item n,k,j,i;
-item=100
-  n=3; j=n;
-  int ab[n]={8,15,10};
-printf("the array item before initialization/n")
- for(i=0 i<n; i++)
-{
-printf("item at index[%d]=%d)";i,ab[i]);
-}
-printf("impleming the insert op);
-  i=j
- while(i>k)
- {
- ab[i]=ab[i-1];
-  i=i-1;
+  int a,b,c;
+  a=4;
+  b=2;
+  c=a/b;
+printf("result of division is %d/n",c);
+
+ return 0;
  }
- ab[k]=item
-   n=n+1;
-printf("printing array after insertion/n");
- for(i=0; i<n; i++)
-  {
- printf("item at index[%d]=%d/n",ab[i]);
-  }
- return 0
-  }
